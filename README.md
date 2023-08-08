@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MohammedRizwan313
 - 👀 I’m interested in exploring and enhancing AI
-- 🌱 I’m currently learning AL AND ML
+- 🌱 I’m currently learning AL AND ML with full stack development using Django and Flask
+- ✨ Increasing my experties in DevOps and Automation
 - 💞️ I’m looking to collaborate on AI PROJECTS
 - 📫 How to reach me mohammedrizwanmalik2020@gmail.com
 
