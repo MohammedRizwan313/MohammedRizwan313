@@ -153,6 +153,7 @@
 </div>
 
 ###
+![Snake animation](https://github.com/MohammedRizwan313/MohammedRizwan313/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/MohammedRizwan313/MohammedRizwan313/output/snake.svg" alt="Snake animation" />
 
